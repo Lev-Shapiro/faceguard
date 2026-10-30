@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key>
+    <string>LidWatcher</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.local.faceguard.lidwatcher</string>
+    <key>CFBundleName</key>
+    <string>LidWatcher</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSCameraUsageDescription</key>
+    <string>FaceGuard requires camera access on wake to verify the owner.</string>
+</dict>
+</plist>
