@@ -1,2 +1,5 @@
-me/*.jpg
-intruders/*.jpg
+me/*
+!me/.gitkeep
+
+intruders/*
+!intruders/.gitkeep
